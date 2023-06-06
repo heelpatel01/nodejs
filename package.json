@@ -1,0 +1,18 @@
+{
+  "name": "node-ex",
+  "version": "1.0.0",
+  "description": "it's a node desciption.so you can use it.😊",
+  "main": "index1.js",
+  "scripts": {
+    "start": "nodemon index1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heel Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
